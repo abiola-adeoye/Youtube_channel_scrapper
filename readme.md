@@ -1,6 +1,6 @@
 ###                                                     Youtube channel scraper
 
-> This code scrapes data from data from the about page of a youtube channel as well as the top five most viewed videos from this channel and returns the data as a json API
+> This code scrapes data from the about page of a youtube channel as well as the top five most viewed videos from this channel and returns the data as a json API
 
 > a link to the youtube channel without clicking on any side link within the channel (home,videos,playlist,about) should be provided as input
 
